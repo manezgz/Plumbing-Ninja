@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>522</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>524</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>555</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>557</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>604</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>606</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1119</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1121</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1950</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1952</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1970</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1972</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2946</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2948</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3760</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3762</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3968</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3970</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3979</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3981</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4063</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4065</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4081</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4083</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4764</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4766</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
